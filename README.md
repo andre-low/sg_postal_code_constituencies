@@ -21,3 +21,4 @@ Possible approaches:
 ## Potentially useful
 * [StackOverflow: Check if geo-point is inside or outside of polygon](https://stackoverflow.com/questions/43892459/check-if-geo-point-is-inside-or-outside-of-polygon)
 * [StackOverflow: Check if Point Is Inside A Polygon](https://stackoverflow.com/questions/22521982/check-if-point-is-inside-a-polygon)
+* [Tutorial: JavaScript lookup table](https://www.basedash.com/blog/tutorial-javascript-lookup-table)
