@@ -2,10 +2,10 @@
 
 ## Objective
 To either:
-1) create a script that takes a provided postal code and returns a constituiency, or
+1) create a script that takes a provided postal code and returns a constituency, or
 2) create a lookup table of postal codes mapped to constituiencies.
 
-The end goal is to allow website visitors to find their constituiency by postal code.
+The end goal is to allow website visitors to find their constituency by postal code.
 
 Possible approaches:
 * 302 redirect, probably based on an uploaded lookup table (PAP does this)
